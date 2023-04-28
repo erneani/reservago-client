@@ -1,0 +1,20 @@
+{
+  "Alert": {
+    "description": "Auto imported from components/Alert.vue"
+  },
+  "CheckoutButton": {
+    "description": "Auto imported from components/CheckoutButton.vue"
+  },
+  "Content": {
+    "description": "Auto imported from components/Content.vue"
+  },
+  "Input": {
+    "description": "Auto imported from components/Input.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Reservation": {
+    "description": "Auto imported from components/Reservation.vue"
+  }
+}
